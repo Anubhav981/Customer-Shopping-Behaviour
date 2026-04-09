@@ -75,6 +75,9 @@ This dashboard enables easy interpretation of complex data and supports decision
 
 ---
 
+## 📸 Dashboard Preview
+<img src="images/dashboard_images/Screenshot 2024-12-15 195004.png" alt="Dashboard" width="800"/>
+
 ## 💡 Business Recommendations
 
 Based on the analysis, the following recommendations were made:
@@ -95,4 +98,3 @@ Based on the analysis, the following recommendations were made:
 
 ---
 
-## 📂 Project Structure (Suggested)
