@@ -76,7 +76,7 @@ This dashboard enables easy interpretation of complex data and supports decision
 ---
 
 ## 📸 Dashboard Preview
-<img src="images/Screenshot 2026-04-09 203955.png" alt="Dashboard" width="800"/>
+<img src="images/Screenshot 2026-04-09 204819.png" alt="Dashboard" width="800"/>
 
 ## 💡 Business Recommendations
 
